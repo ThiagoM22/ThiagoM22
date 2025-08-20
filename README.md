@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoM22&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoM22&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> <br/>
 </div>
-<img  align="right" height="120" src="https://i.pinimg.com/736x/08/22/79/08227965f5d0173cc82ee207632a50a4.jpg"/>
+
 <div style="display: inline-block"><br/>
 <h3>Languages:</h3>
 <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -21,7 +21,6 @@
 </div>
 <br/>
 <div>
- <h3>Social Media:</h3>
 </div>
 
 
