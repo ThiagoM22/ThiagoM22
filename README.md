@@ -22,7 +22,6 @@
 <br/>
 <div>
  <h3>Social Media:</h3>
-<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>      
 </div>
 
 
