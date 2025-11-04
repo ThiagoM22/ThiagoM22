@@ -1,6 +1,6 @@
-<h1>Thiago Mazzi - Desenvolvedor Full-Stack</h1>
-
-### Hello there, my name is Thiago Mazzi. I'm a student in the Systems Development course at the SENAI.
+<h1>🤓 Thiago Mazzi - Desenvolvedor Full-Stack</h1>
+<h3>Sobre mim</h3>
+<p>Estudante do curso técnico em Desenvolvimento de Sistemas pelo SENAI, integrado ao Ensino Médio no SESI. Tenho experiência com C#, ASP.NET Core, React e integração entre backend e frontend. Interesso-me por desenvolvimento fullstack, APIs REST e boas práticas de programação. Busco constantemente aprimorar meus conhecimentos e aplicá-los em projetos práticos que envolvam tecnologia e inovação..</p>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <th>
