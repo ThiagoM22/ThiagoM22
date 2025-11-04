@@ -1,3 +1,5 @@
+<h1>Thiago Mazzi - Desenvolvedor Full-Stack</h1>
+
 ### Hello there, my name is Thiago Mazzi. I'm a student in the Systems Development course at the SENAI.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
