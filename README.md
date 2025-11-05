@@ -3,11 +3,31 @@
 <p>Estudante do curso técnico em Desenvolvimento de Sistemas pelo SENAI, integrado ao Ensino Médio no SESI. Tenho experiência com C#, ASP.NET Core, React e integração entre backend e frontend. Interesso-me por desenvolvimento backend, APIs REST e boas práticas de programação. Busco constantemente aprimorar meus conhecimentos e aplicá-los em projetos práticos que envolvam tecnologia e inovação..</p>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</br>
+<div>
+<h3 align="center">
+ GitHub         
+</h3>
 <th>
 <br/>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoM22&show_icons=true&theme=tokyonight&title_color=4493f8&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoM22&layout=compact&theme=tokyonight&title_color=4493f8&text_color=FFFFFF&langs_count=16"/> <br/>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Joaquimtxt&show_icons=true&theme=radical&hide_border=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquimtxt&layout=compact&theme=radical&hide_border=true&langs_count=8"
+        alt="Github Top Languages stats"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div style="display: inline-block"><br/>
