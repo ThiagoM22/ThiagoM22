@@ -12,14 +12,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Joaquimtxt&show_icons=true&theme=radical&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=ThiagoM22&show_icons=true&theme=radical&hide_border=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquimtxt&layout=compact&theme=radical&hide_border=true&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoM22&layout=compact&theme=radical&hide_border=true&langs_count=8"
         alt="Github Top Languages stats"
       />
     </td>
