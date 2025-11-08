@@ -28,7 +28,7 @@
 </div>
 
 <div style="display: inline-block">
-<h3 align="center">💻 Tools Used</h3>
+<h3 align="center">💻 Ferramentas Usadas</h3>
 <table align="center">
  <tr>
   <td align="center">  
