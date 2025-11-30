@@ -56,7 +56,7 @@
 </div>
 <div align="center">
  <h3>🌐 Socials</h3>
- <table>
+ <table align= "center">
   <tr>
    <td>
    <a href="https://www.instagram.com/thiago.mazzi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
