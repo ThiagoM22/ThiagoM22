@@ -49,8 +49,6 @@ Foco em APIs REST, boas práticas de programação e arquitetura de software —
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [EnerCheck](https://github.com/ThiagoM22/APIEnercheck) | API com IA (Gemini) para análise de plantas elétricas — NBR 5410 | ASP.NET Core 8 · EF Core · SQL Server · JWT |
-| [PulseHub](https://github.com/ThiagoM22/PulseHub) | Estudo de arquitetura em camadas (API, Application, Domain, Infrastructure) | C# · .NET |
 | [mazziflix](https://github.com/ThiagoM22/mazziflix) | Clone da interface da Netflix consumindo a API do TMDB | React · Vite · JavaScript |
 | [IoT](https://github.com/ThiagoM22/IoT) | Experimentos com ESP32, MQTT e dashboard | ESP32 · MQTT |
 
