@@ -49,6 +49,7 @@ Foco em APIs REST, boas práticas de programação e arquitetura de software —
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [EdViz](https://github.com/ThiagoM22/ProjetoEstruturaDeDados) | Visualizador didático de estruturas de dados | React · Vite · JavaScript |
 | [mazziflix](https://github.com/ThiagoM22/mazziflix) | Clone da interface da Netflix consumindo a API do TMDB | React · Vite · JavaScript |
 | [IoT](https://github.com/ThiagoM22/IoT) | Experimentos com ESP32, MQTT e dashboard | ESP32 · MQTT |
 
